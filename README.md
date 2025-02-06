@@ -5,7 +5,7 @@
 
 
 
-## Lesson 01
+## Lesson 01: Basic setup
 
 
 #### Step 1: maven pom.xml settings
